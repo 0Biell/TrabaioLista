@@ -1,0 +1,11 @@
+C:\beus\lista\lista\obj\Debug\lista.csproj.AssemblyReference.cache
+C:\beus\lista\lista\obj\Debug\lista.csproj.SuggestedBindingRedirects.cache
+C:\beus\lista\lista\obj\Debug\lista.Properties.Resources.resources
+C:\beus\lista\lista\obj\Debug\lista.csproj.GenerateResource.cache
+C:\beus\lista\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+C:\beus\lista\lista\bin\Debug\lista.exe.config
+C:\beus\lista\lista\bin\Debug\lista.exe
+C:\beus\lista\lista\bin\Debug\lista.pdb
+C:\beus\lista\lista\obj\Debug\lista.exe
+C:\beus\lista\lista\obj\Debug\lista.pdb
+C:\beus\lista\lista\obj\Debug\lista.Form1.resources
